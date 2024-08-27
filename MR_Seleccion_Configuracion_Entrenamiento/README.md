@@ -30,3 +30,5 @@ Comparación de Desempeño:
   Complejidad del Modelo: El Random Forest es un modelo más complejo con múltiples árboles de decisión, mientras que la Regresión Logística es un modelo lineal más sencillo.
 
 Conclusión: Ambos modelos tienen un rendimiento comparable, aunque el Random Forest podría ofrecer una ligera ventaja en términos de precisión, mientras que la Regresión Logística muestra un buen desempeño general con una alta capacidad de discriminación entre las clases. La elección entre ellos podría depender del contexto, por ejemplo, si prefieres interpretabilidad (Regresión Logística) o un modelo más robusto y complejo (Random Forest).
+
+La documentacion se puede encontrar en los ipynbs o en los pdfs.
